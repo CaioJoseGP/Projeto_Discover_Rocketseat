@@ -85,8 +85,6 @@ body {
     left: 0;
     transform: translateY(-50%);
 
-    transition: background 0.35s;
-
     animation: slide-in 0.4s;
 }
 
